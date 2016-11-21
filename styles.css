@@ -1,0 +1,110 @@
+div {
+	font-family: 'Delius Unicase', cursive;
+	text-align: center;
+	width: 60%;
+	margin: auto;
+	border-style: dotted;
+	border-width: 1vw;
+	border-color: darkmagenta;
+	border-radius: 6px;
+}
+
+body {
+	margin: 0px;
+}
+
+li {
+	list-style: none;
+	line-height: 4vw;
+	padding: 10px;
+}
+
+ul {
+	padding: 0px;
+}
+
+h1 {
+	background-color: mistyrose;
+	margin: 0px;
+}
+
+.one {
+	color: hotpink;
+	background-color: cornsilk;
+	text-decoration: underline;
+	font-family: 'Ravi Prakash', cursive;
+
+}
+
+.two {
+	background-color: lemonchiffon;
+	color: green;
+	text-decoration: overline;
+	font-family: 'Delius Unicase', cursive;
+
+}
+
+.three {
+	color: lightpink;
+	background-color: aquamarine;
+	text-decoration: line-through;
+	font-family: 'Oswald', sans-serif;
+
+}
+
+.four {
+	color: mediumslateblue;
+	background-color: pink;
+	font-style: italic;
+	font-family: 'Bungee Inline', cursive;
+
+}
+
+.five {
+	color: mediumvioletred;
+	background-color: lightcyan;
+	font-weight: bold;
+	font-family: 'Ranga', cursive;
+
+}
+
+.six {
+	color: teal;
+	background-color: lightblue;
+	font-family: 'Indie Flower', cursive;
+
+
+}
+
+.seven {
+	color: violet;
+	background-color: lavender;
+	font-family: 'Lobster', cursive;
+
+}
+
+.eight {
+	color: yellowgreen;
+	background-color: deeppink;
+	text-decoration: underline;
+	font-family: 'Gloria Hallelujah', cursive;
+
+}
+
+.nine {
+	color: orchid;
+	background-color: thistle;
+	text-decoration: overline;
+	font-family: 'Pacifico', cursive;
+
+}
+
+.ten {
+	color: salmon;
+	background-color: darkseagreen;
+	text-decoration: line-through;
+	font-family: 'Shadows Into Light', cursive;
+
+
+}
+
